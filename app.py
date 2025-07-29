@@ -12,8 +12,8 @@ st.title("🎭 MoodTune: Music for Your Mood")
 st.markdown("Upload a photo or take a selfie, and we'll detect your emotion and recommend matching music!")
 
 # ------------------- API KEYS -------------------
-YOUTUBE_API_KEY = "AIzaSyB9q58JJo9VjsObZo0KeNSaeKdfP3RKa88"
-GEMINI_API_KEY = "AIzaSyDAFhChMDsqnAwfh9frrLJJwYA2yMYPl-4"
+YOUTUBE_API_KEY = "ENTER YOUR API KEY HERE"
+GEMINI_API_KEY = "ENTER YOUR API KEY HERE"
 
 # ------------------- INITIALIZATIONS -------------------
 @st.cache_resource
