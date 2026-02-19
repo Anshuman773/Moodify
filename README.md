@@ -1,4 +1,4 @@
-```markdown
+
 # Moodify — AI-Driven Mood-Based Music Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
